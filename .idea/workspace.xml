@@ -5,15 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18b44db4-0346-4204-9d1c-1826501d3970" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/author/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/author/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/images/im1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/images/im10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/images/im11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/images/im12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/images/im2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/images/im3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/images/im4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/images/im4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/images/im5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/images/im6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/images/im7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/images/im8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/images/im9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/product.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/product.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../git_tutorial_akouvivien" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +37,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />

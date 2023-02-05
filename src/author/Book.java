@@ -1,16 +1,18 @@
 package author;
 
-public class Book extends Author{
+public class Book{
 
     private String name;
     private Author author;
     private double price;
     private int qty;
 
-    public Book(String name, String email, char gender) {
-        super(name, email, gender);
+    public Book(String name, Author author, double price, int qty) {
+        this.name = name;
+        this.author = author;
+        this.price = price;
+        this.qty = qty;
     }
-
 
     public String getName() {
         return name;
@@ -41,6 +43,6 @@ public class Book extends Author{
     l'auteur, qui renvoie « nom-auteur (sexe) à l'adresse e-mail ».*/
 
     public String toString() {
-        return name +(author.toString()) ;
+        return name + " par " + (author.toString()) + " dans " + author.getEmail() ;
     }
 }
